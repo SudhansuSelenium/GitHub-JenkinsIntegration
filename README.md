@@ -9,4 +9,4 @@ This is about GitHub integration with Jenkins and trigger build automatically
 6. In Git repo setting select Webhooks-->click Webhook button
 7. Give payload URL eg. http://localhost:8080/github-webhook/
 8. Select content type as application/json-->click Add Webhook
-9. Thats all.. Thanks
+9. Thats all.. Thanks You
