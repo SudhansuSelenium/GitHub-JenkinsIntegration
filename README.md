@@ -7,6 +7,6 @@ This is about GitHub integration with Jenkins and trigger build automatically
 4. In Source Code Management tab select Git and give repository url eg. https://github.com/SudhansuSelenium/GitHub-JenkinsIntegration.git
 5. In Build trigger tab select GitHub hook trigger for GITScm polling
 6. In Git repo setting select Webhooks-->click Webhook button
-7. Give payload URL eg. localhost:8080/job/testing
+7. Give payload URL eg. http://localhost:8080/github-webhook/
 8. Select content type as application/json-->click Add Webhook
 9. Thats all.. Thanks
